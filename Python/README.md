@@ -2,6 +2,8 @@
 
 **_A Curated Script Collection Repository from Programmer, by Programmer, to Programmer._**
 
-| Column1 | Column2 | Column3 |
-| ------- | ------- | ------- |
-| Item1   | Item1   | Item1   |
+## Python Section
+
+| No  | Script Name | Short Description | Contributor(s) |
+| --- | ----------- | ----------------- | -------------- |
+| 1   | Item1       | Item1             | Item1          |
