@@ -4,6 +4,6 @@
 
 ## Bash Section
 
-| No  | Script Name | Short Description | Contributor(s) |
-| --- | ----------- | ----------------- | -------------- |
-| 1   | Item1       | Item1             | Item1          |
+| No  | Script Name | Short Description                                               | Contributor(s)                                 |
+| --- | ----------- | --------------------------------------------------------------- | ---------------------------------------------- |
+| 1   | odd-even.sh | simple script that accept integer and check if it's even or odd | [mohzulfikar](https://github.com/mohzulfikar/) |
