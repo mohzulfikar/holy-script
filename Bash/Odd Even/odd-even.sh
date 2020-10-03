@@ -7,7 +7,7 @@
 if [ $# -eq 0 ] # if user not give an argument
 then
     echo "usage: ./odd-even.sh arg1"
-    exit 1	# exit program with error
+    exit 1	# exit program with error status
 fi
 
 check=$1 
